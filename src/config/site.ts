@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://discord.gg/tribes",
     youtube: "https://www.youtube.com/@tribes3rivals",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "fr", "ja"],
   defaultLocale: "en",
 };

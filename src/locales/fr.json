@@ -1,1 +1,499 @@
-{}
+{
+  "site": {
+    "name": "TRIBES 3: Rivals Wiki",
+    "shortName": "TRIBES 3: Rivals",
+    "tagline": "Guides des classes, armes, cartes et déplacements",
+    "description": "TRIBES 3: Rivals est un FPS d'équipe nerveux construit autour des jetpacks, du skiing, des combats par classes, de loadouts personnalisables et de batailles Capture the Flag intenses.",
+    "legalNotice": "Wiki de fans non officiel. Fait par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "home": "Accueil",
+    "menu": "Menu",
+    "toggleTheme": "Changer de thème",
+    "guide": "Guide",
+    "mechanics": "Mécaniques",
+    "controls": "Commandes",
+    "progression": "Progression",
+    "modes": "Modes",
+    "community": "Communauté",
+    "tips": "Astuces"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki TRIBES 3: Rivals – Classes, armes et cartes",
+      "description": "Wiki complet TRIBES 3: Rivals couvrant les classes, armes, perks, cartes, skiing, jetpacks, Capture the Flag, le classé et les guides pour débutants."
+    },
+    "hero": {
+      "eyebrow": "FPS d'équipe à haute vitesse",
+      "title": "TRIBES 3: Rivals Wiki",
+      "description": "TRIBES 3: Rivals est un FPS d'équipe nerveux construit autour des jetpacks, du skiing, des combats par classes, de loadouts personnalisables et de batailles Capture the Flag intenses.",
+      "stats": [
+        "36 CCU au pic",
+        "10 cartes disponibles",
+        "6 perks disponibles",
+        "3 classes d'armure"
+      ],
+      "primaryCta": "Jouer sur Steam",
+      "secondaryCta": "Guide du débutant",
+      "tertiaryCta": "Cartes et modes de jeu",
+      "videoLabel": "Bande-annonce officielle"
+    },
+    "updates": {
+      "title": "Dernières mises à jour",
+      "browse": "Parcourir tous les guides",
+      "viewAll": "Voir tout"
+    },
+    "start": {
+      "eyebrow": "Commencez ici",
+      "title": "Votre parcours Tribes 3v3",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du débutant",
+          "description": "Apprenez comment les manches se perdent vraiment : couverture, placement du réticule, timing des capacités et les habitudes d'escouade qui font gagner les combats à trois."
+        },
+        {
+          "number": "2",
+          "title": "Meilleure classe",
+          "description": "Comparez les archétypes distance, entrée et flex et construisez une composition à trois qui tient encore quand un joueur tombe."
+        },
+        {
+          "number": "3",
+          "title": "Shards : la méthode la plus rapide",
+          "description": "Gagnez, dépensez et refusez l'économie de shards en manche pour que votre escouade ait encore des outils lors du combat final."
+        },
+        {
+          "number": "4",
+          "title": "Meilleurs loadouts",
+          "description": "Associez armes et capacités à votre rôle et à votre portée au lieu de reconstruire votre kit après chaque duel perdu."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages populaires",
+      "title": "Tendances du moment",
+      "quickLinks": [
+        "Guide du débutant",
+        "Meilleure classe",
+        "Meilleurs loadouts",
+        "Astuces 3v3"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du débutant",
+          "description": "Tout ce qu'il faut, de votre premier match aux habitudes qui font gagner les manches.",
+          "href": "/guide/tribes3v3-beginner-guide"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Meilleure classe",
+          "description": "Comparez les rôles distance, entrée et flex et construisez une composition d'escouade gagnante.",
+          "href": "/tips/tribes3v3-best-class"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Guide des classes",
+          "description": "Archétypes de rôles, meilleures combinaisons à trois et conseils de loadout pour chaque poste.",
+          "href": "/mechanics/tribes3v3-classes"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Guide des armes",
+          "description": "Archétypes d'armes par portée et comment les associer à votre rôle dans l'escouade.",
+          "href": "/mechanics/tribes3v3-weapons"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Meilleurs loadouts",
+          "description": "Associations d'armes et de capacités qui restent fiables à chaque manche.",
+          "href": "/tips/tribes3v3-best-loadouts"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Guide des shards",
+          "description": "Comment gagner, dépenser et refuser l'économie de shards en manche.",
+          "href": "/mechanics/tribes3v3-shards"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Commandes et raccourcis",
+          "description": "Raccourcis par défaut, réglages de caméra et sensibilités qui restent prévisibles.",
+          "href": "/controls/tribes3v3-controls"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Astuces et conseils",
+          "description": "Positionnement, timing des capacités, tirs croisés et callouts qui font gagner les manches à trois.",
+          "href": "/guide/tribes3v3-tips-and-tricks"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Guide 3v3",
+          "description": "Tactiques et stratégies pour les matchs compétitifs en petite équipe.",
+          "href": "/modes/tribes3v3-3v3"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu'est-ce que Tribes 3v3 ?",
+      "paragraphs": [
+        "Tribes 3v3 est un shooter compétitif en petite équipe construit autour d'escouades de trois joueurs qui s'affrontent dans des manches rapides axées sur des objectifs. Sans quatrième coéquipier pour couvrir un mauvais angle, chaque duel, chaque route et chaque capacité fait basculer la manche : c'est pourquoi le positionnement, le placement du réticule et la coordination comptent bien plus que la vitesse de flick.",
+        "Le Wiki Tribes 3v3 transforme cette pression en guides pratiques : archétypes de classes et de rôles, choix d'armes et de loadouts, raccourcis et réglages de caméra, économie de shards et d'améliorations, plus des tactiques par mode pour le 3v3, Rivals, les tournois et les salons privés."
+      ],
+      "stats": [
+        {
+          "label": "Taille d'escouade",
+          "value": "3v3"
+        },
+        {
+          "label": "Archétypes de rôles",
+          "value": "3"
+        },
+        {
+          "label": "Archétypes d'armes",
+          "value": "4"
+        },
+        {
+          "label": "Compétences clés",
+          "value": "4"
+        },
+        {
+          "label": "Couche de ressources",
+          "value": "Shards"
+        },
+        {
+          "label": "Catégories de guides",
+          "value": "7"
+        }
+      ],
+      "cta": "Explorer tous les guides"
+    },
+    "explore": {
+      "title": "Explorez le Wiki Tribes 3v3",
+      "description": "Tous les systèmes de Tribes 3v3 au même endroit : bases pour débutants, classes, armes, déplacements, cartes, modes de jeu, astuces et ce qui a changé récemment.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guide du débutant Tribes 3v3",
+          "description": "Les bases essentielles pour les nouveaux joueurs : où vous vous placez, où se trouve votre réticule et quand vous vous engagez dans un combat.",
+          "href": "/guide/tribes3v3-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Gardez une couverture entre vous et l'ennemi et ne restez jamais deux fois dans la même ligne ouverte."
+            },
+            {
+              "label": "2",
+              "detail": "Réglez votre configuration une fois : ajustez la sensibilité de caméra et de visée, puis n'y touchez plus pour garder une visée constante."
+            },
+            {
+              "label": "3",
+              "detail": "Construisez un loadout fiable et apprenez ses limites avant d'expérimenter de nouveaux kits."
+            },
+            {
+              "label": "4",
+              "detail": "Jouez avec l'équipe : déplacez-vous avec au moins un coéquipier et visez la même cible."
+            },
+            {
+              "label": "5",
+              "detail": "Analysez chaque engagement et demandez-vous ce qui a fait réussir ou échouer l'échange."
+            },
+            {
+              "label": "6",
+              "detail": "Corrigez une erreur récurrente par session au lieu d'en chasser cinq petites à la fois."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Classes Tribes 3v3",
+          "description": "Comment les archétypes distance, entrée et flex se répartissent les responsabilités, et quelles combinaisons à trois tiennent une manche.",
+          "href": "/mechanics/tribes3v3-classes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Distance",
+              "detail": "Tient les lignes de vue et punit les poussées à découvert ; meilleure sur les longues allées et les hauteurs."
+            },
+            {
+              "label": "Entrée",
+              "detail": "Ouvre les angles et force les duels rapprochés, mais s'expose dès que le combat s'ouvre."
+            },
+            {
+              "label": "Flex",
+              "detail": "Comble ce qui manque à l'escouade et s'adapte dès que le premier engagement révèle le plan adverse."
+            },
+            {
+              "label": "Compos",
+              "detail": "Poussée agressive, tenue défensive et compositions équilibrées, l'équilibre étant la référence pour les nouvelles escouades."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Armes Tribes 3v3",
+          "description": "Les archétypes d'armes par portée et le rôle d'escouade auquel chacun correspond vraiment dans un combat à trois.",
+          "href": "/mechanics/tribes3v3-weapons",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Courte",
+              "detail": "Des armes à tir rapide qui gagnent les échanges à bout portant et punissent les angles, mais s'effondrent à découvert."
+            },
+            {
+              "label": "Moyenne",
+              "detail": "Des polyvalentes qui restent flexibles à la plupart des distances et constituent le choix par défaut des nouvelles escouades."
+            },
+            {
+              "label": "Longue",
+              "detail": "Des armes de précision qui punissent quiconque tient une ligne ouverte, mais se font submerger par les poussées rapprochées."
+            },
+            {
+              "label": "Utilitaire",
+              "detail": "Des secondaires qui achèvent les cibles affaiblies et couvrent les rechargements sans porter un combat à elles seules."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Déplacements Tribes 3v3",
+          "description": "Réglages de déplacement, de caméra et d'entrée qui gardent votre visée prévisible dès que le combat commence.",
+          "href": "/controls/tribes3v3-controls",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Apprenez d'abord la disposition par défaut : gardez les touches de déplacement familières, utilisez la barre d'espace pour vous repositionner et réservez la souris à la caméra et à la visée."
+            },
+            {
+              "label": "2",
+              "detail": "Faites des strafes avec les touches gauche et droite plutôt que de reculer, pour que votre réticule reste sur le combat."
+            },
+            {
+              "label": "3",
+              "detail": "Commencez avec la sensibilité de caméra par défaut et ne changez qu'une valeur à la fois sur une session complète."
+            },
+            {
+              "label": "4",
+              "detail": "Alignez la sensibilité de visée sur celle de la caméra pour un suivi fin constant."
+            },
+            {
+              "label": "5",
+              "detail": "Gardez une valeur de DPI constante sur la souris, puis n'y touchez plus."
+            },
+            {
+              "label": "6",
+              "detail": "Réassignez les capacités à des touches proches de vos doigts, puis vérifiez-les dans l'affichage des commandes du jeu."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Cartes Tribes 3v3",
+          "description": "Lire le champ de bataille : angles, routes latérales, hauteurs et longues lignes de vue qui décident qui contrôle la manche.",
+          "href": "/guide/tribes3v3-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Angles",
+              "detail": "Les entrées étroites cachent des embuscades : nettoyez-les méthodiquement et attendez-vous à des combats rapprochés."
+            },
+            {
+              "label": "Routes",
+              "detail": "Divisez-vous sur les routes latérales pour créer des tirs croisés depuis deux angles au lieu d'un."
+            },
+            {
+              "label": "Hauteur",
+              "detail": "Prenez les hauteurs tôt et utilisez-les pour vous repositionner ou tenir l'overwatch."
+            },
+            {
+              "label": "Lignes de vue",
+              "detail": "Cassez la ligne de vue dans les longues allées et repositionnez-vous au lieu d'échanger à distance."
+            },
+            {
+              "label": "Tirs croisés",
+              "detail": "Couvrez la même porte depuis deux angles avec assez d'espace pour qu'une capacité ne vous touche pas tous les deux."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Modes de jeu Tribes 3v3",
+          "description": "Les principaux formats à trois, des manches classées 3v3 aux Rivals, tournois et salons privés.",
+          "href": "/modes/tribes3v3-3v3",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "3v3",
+              "detail": "Trois joueurs par camp, manches courtes et aucun remplaçant : chaque mort change le tempo."
+            },
+            {
+              "label": "Rivals",
+              "detail": "Des affrontements répétés contre des escouades connues, où repérer les routes vaut mieux que forcer les combats précoces."
+            },
+            {
+              "label": "Tournoi",
+              "detail": "Un format à élimination directe basé sur les rôles du trio, les synergies de loadout et le contrôle de la carte sous pression."
+            },
+            {
+              "label": "Privé",
+              "detail": "Des salons privés pour les scrims, l'apprentissage des routes et des répétitions régulières."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Astuces Tribes 3v3",
+          "description": "Les conseils d'amélioration qui font vraiment bouger votre taux de victoire, classés par importance.",
+          "href": "/guide/tribes3v3-tips",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Positionnement : l'usage des couvertures et le repositionnement après dégâts décident qui tire le premier."
+            },
+            {
+              "label": "S",
+              "detail": "Placement du réticule : pré-visez les points d'entrée au lieu de flicker à travers l'écran."
+            },
+            {
+              "label": "A",
+              "detail": "Discipline de duel : reculez devant les combats à faible probabilité au lieu de forcer un tir après un raté."
+            },
+            {
+              "label": "B",
+              "detail": "Déplacements : strafez pendant le combat, car rester immobile fait perdre même les échanges équilibrés."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Mises à jour Tribes 3v3",
+          "description": "Ce qui a changé pour les joueurs de retour, et à quelle vitesse évolue la méta actuelle de Tribes 3v3.",
+          "href": "/community/tribes3v3-revival",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Méta",
+              "detail": "La boucle de base récompense toujours la couverture, les poussées coordonnées et les capacités économisées : les fondamentaux survivent aux patchs."
+            },
+            {
+              "label": "Rattrapage",
+              "detail": "Les guides écrits par la communauté et les clips courts permettent à un joueur de retour de rattraper la méta en une soirée."
+            },
+            {
+              "label": "Escouades",
+              "detail": "De plus en plus de joueurs cherchent des trios fixes et analysent les manches ensemble au lieu de farmer seuls en file d'attente."
+            },
+            {
+              "label": "Entraînement",
+              "detail": "Répétez la même route et la même défense en salon privé pour mesurer ce qui a réellement progressé."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Tribes 3v3",
+      "description": "Des réponses rapides aux questions que se posent le plus souvent les nouveaux joueurs de Tribes 3v3.",
+      "items": [
+        {
+          "question": "Qu'est-ce que Tribes 3v3 ?",
+          "answer": "Tribes 3v3 est un shooter compétitif en petite équipe où des escouades de trois joueurs s'affrontent dans des manches rapides axées sur des objectifs. Comme seuls trois joueurs entrent en jeu par camp, le positionnement, le timing des capacités et la communication décident la plupart des manches, pas la visée brute."
+        },
+        {
+          "question": "Quelle classe les débutants doivent-ils choisir dans Tribes 3v3 ?",
+          "answer": "Commencez par une composition équilibrée : un joueur distance en overwatch, un joueur d'entrée à courte portée et un joueur flex. Les compositions équilibrées s'adaptent à l'attaque comme à la défense et sont la recommandation par défaut pour les nouvelles escouades."
+        },
+        {
+          "question": "Comment fonctionnent les shards dans Tribes 3v3 ?",
+          "answer": "Les shards sont la couche de ressources en manche qui alimente vos capacités et vos choix de loadout. Dépensez-les pour des entrées planifiées, de vraies esquives et des éliminations confirmées, et évitez de tout gaspiller au premier contact."
+        },
+        {
+          "question": "Quelles sont les compétences les plus importantes dans Tribes 3v3 ?",
+          "answer": "Le positionnement et le placement du réticule pèsent le plus, suivis par la discipline de duel et le timing des capacités. La régularité bat le spectaculaire : prenez les combats que vous pouvez vraiment gagner au lieu de courir après des tirs spectaculaires."
+        },
+        {
+          "question": "Comment progresser plus vite dans Tribes 3v3 ?",
+          "answer": "Réglez votre configuration une fois, verrouillez un loadout fiable, jouez avec au moins un coéquipier, analysez chaque engagement et corrigez une erreur récurrente par session."
+        },
+        {
+          "question": "Quel est le moyen le plus rapide d'obtenir des shards dans Tribes 3v3 ?",
+          "answer": "Les revenus de shards dépendent de votre façon de jouer la manche : les gains les plus rapides viennent des engagements gagnés proprement. Gardez la couverture, visez la même cible qu'un coéquipier et arrêtez de dépenser dans des combats à faible valeur."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à maîtriser TRIBES 3: Rivals ?",
+      "description": "De votre premier décollage en jetpack aux batailles classées Capture the Flag, notre wiki communautaire couvre les classes, les perks, les cartes et les déplacements en skiing avec des guides gratuits et à jour.",
+      "primary": "Lire le guide du débutant",
+      "secondary": "Jouer sur Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guide Tribes 3v3",
+    "overviewDescription": "Tous les guides Tribes 3v3 du site : tutoriels pour débutants, comment jouer, astuces et conseils, et aperçus de ce que chaque mise à jour change dans ce shooter d'arène 3v3."
+  },
+  "mechanics": {
+    "overviewTitle": "Mécaniques Tribes 3v3",
+    "overviewDescription": "Les classes, loadouts, armes, améliorations, shards et réglages de Tribes 3v3 expliqués, pour savoir ce que chaque poste et chaque statistique font réellement avant votre prochain match."
+  },
+  "controls": {
+    "overviewTitle": "Commandes Tribes 3v3",
+    "overviewDescription": "Raccourcis, touches par défaut et dispositions de commandes de Tribes 3v3 au clavier-souris ou à la manette, plus les réglages qui rendent la visée et les déplacements constants."
+  },
+  "progression": {
+    "overviewTitle": "Progression Tribes 3v3",
+    "overviewDescription": "Comment fonctionne la progression de Tribes 3v3 : classements, réinitialisations hebdomadaires, récompenses, récompenses de groupe et le chemin d'amélioration le plus rapide pour renforcer votre escouade."
+  },
+  "modes": {
+    "overviewTitle": "Modes de jeu Tribes 3v3",
+    "overviewDescription": "Les modes de jeu de Tribes 3v3 expliqués, des matchs Rivals classiques et tournois aux serveurs VIP, avec les règles et conditions de victoire de chaque file."
+  },
+  "community": {
+    "overviewTitle": "Communauté Tribes 3v3",
+    "overviewDescription": "Les hubs de la communauté Tribes 3v3 : le Discord officiel, les forums, les discussions Reddit, les avis des joueurs et les actualités de la relance à suivre entre deux matchs."
+  },
+  "tips": {
+    "overviewTitle": "Astuces Tribes 3v3",
+    "overviewDescription": "Astuces et meilleurs choix Tribes 3v3 : les classes, armes et loadouts les plus forts, plus les moyens les plus rapides de farmer les shards dans la méta actuelle."
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du wiki",
+    "activeCodes": "Codes actifs",
+    "updated": "Mis à jour",
+    "viewAllCodes": "Voir tous les codes",
+    "playOnSteam": "Jouer sur Steam",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Étapes suivantes",
+    "needHelp": "Besoin d'aide ?",
+    "relatedReading": "Lectures associées",
+    "relatedGuides": "Guides associés",
+    "readMore": "Lire la suite",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "TRIBES 3: Rivals Wiki",
+    "about": "Le Wiki TRIBES 3: Rivals est un hub de guides indépendant créé par des fans, couvrant les classes d'armure, les armes, les perks, les cartes, les déplacements en skiing et jetpack, et les tactiques Capture the Flag pour les nouveaux joueurs comme pour les vétérans.",
+    "quickLinks": "Liens rapides",
+    "guides": "Guides",
+    "legal": "Mentions légales",
+    "copyright": "2026 TRIBES 3: Rivals Wiki. Sans affiliation avec Prophecy Games ou Steam.",
+    "description": "FPS d'équipe nerveux avec jetpacks, skiing, classes d'armure et Capture the Flag.",
+    "playGame": "Jouer à TRIBES 3: Rivals sur Steam",
+    "officialDiscord": "Discord officiel",
+    "officialYoutube": "YouTube officiel",
+    "vvBuilder": "FAQ et guide de jeu officiels",
+    "beginnerGuide": "Guide du débutant",
+    "classGuides": "Guides des classes",
+    "weaponGuides": "Armes et loadouts",
+    "tipsGuides": "Astuces et meilleurs choix",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation"
+  }
+}

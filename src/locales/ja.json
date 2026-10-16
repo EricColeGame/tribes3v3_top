@@ -1,1 +1,499 @@
-{}
+{
+  "site": {
+    "name": "TRIBES 3: Rivals Wiki",
+    "shortName": "TRIBES 3: Rivals",
+    "tagline": "クラス・武器・マップ・移動ガイド",
+    "description": "TRIBES 3: Rivals は、ジェットパック、スキー、クラス制の戦闘、カスタマイズ可能なロードアウト、そして激しい Capture the Flag を中心とした高速なチームFPSです。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために作成しています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替",
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "controls": "操作",
+    "progression": "進行",
+    "modes": "モード",
+    "community": "コミュニティ",
+    "tips": "コツ"
+  },
+  "home": {
+    "meta": {
+      "title": "TRIBES 3: Rivals Wiki – クラス・武器・マップ",
+      "description": "クラス、武器、パーク、マップ、スキー、ジェットパック、Capture the Flag、ランク戦、初心者ガイドを網羅した TRIBES 3: Rivals Wiki の完全版。"
+    },
+    "hero": {
+      "eyebrow": "高速チームFPS",
+      "title": "TRIBES 3: Rivals Wiki",
+      "description": "TRIBES 3: Rivals は、ジェットパック、スキー、クラス制の戦闘、カスタマイズ可能なロードアウト、そして激しい Capture the Flag を中心とした高速なチームFPSです。",
+      "stats": [
+        "ピークCCU 36",
+        "実装マップ10",
+        "実装パーク6",
+        "アーマークラス3"
+      ],
+      "primaryCta": "Steam でプレイ",
+      "secondaryCta": "初心者ガイド",
+      "tertiaryCta": "マップとゲームモード",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "Tribes 3v3 への道",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "ラウンドが実際にどう失われるかを学びます。カバーの使い方、クロスヘアの置き方、アビリティのタイミング、そして3人での戦闘を制するスクワッドの習慣です。"
+        },
+        {
+          "number": "2",
+          "title": "最強クラス",
+          "description": "遠距離・エントリー・フレックスのアーキタイプを比較し、1人が倒れても機能する3人の構成を組み立てましょう。"
+        },
+        {
+          "number": "3",
+          "title": "シャードを最速で稼ぐ方法",
+          "description": "ラウンド内のシャード経済を稼ぎ、使い、相手に使わせないことで、最後の戦いでもツールを残せるようにします。"
+        },
+        {
+          "number": "4",
+          "title": "最強ロードアウト",
+          "description": "負けたデュエルのたびにキットを組み直すのではなく、自分の役割と距離に武器とアビリティを合わせましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "最強クラス",
+        "最強ロードアウト",
+        "3v3のコツ"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "最初の1試合からラウンドを勝ち取る習慣まで、必要なすべてを解説します。",
+          "href": "/guide/tribes3v3-beginner-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "最強クラス",
+          "description": "遠距離・エントリー・フレックスの役割を比較し、勝てるスクワッド構成を組みましょう。",
+          "href": "/tips/tribes3v3-best-class"
+        },
+        {
+          "badge": "人気",
+          "title": "クラスガイド",
+          "description": "役割のアーキタイプ、最強の3人構成、各スロットのロードアウトのコツ。",
+          "href": "/mechanics/tribes3v3-classes"
+        },
+        {
+          "badge": "更新済み",
+          "title": "武器ガイド",
+          "description": "距離ごとの武器アーキタイプと、スクワッドでの役割との組み合わせ方。",
+          "href": "/mechanics/tribes3v3-weapons"
+        },
+        {
+          "badge": "新着",
+          "title": "最強ロードアウト",
+          "description": "どのラウンドでも安定して機能する武器とアビリティの組み合わせ。",
+          "href": "/tips/tribes3v3-best-loadouts"
+        },
+        {
+          "badge": "新着",
+          "title": "シャードガイド",
+          "description": "ラウンド内のシャード経済を稼ぎ、使い、相手に使わせない方法。",
+          "href": "/mechanics/tribes3v3-shards"
+        },
+        {
+          "badge": "更新済み",
+          "title": "操作とキー割り当て",
+          "description": "初期キー割り当て、カメラ設定、ぶれない感度の数値。",
+          "href": "/controls/tribes3v3-controls"
+        },
+        {
+          "badge": "人気",
+          "title": "コツと裏技",
+          "description": "3人のラウンドを勝ち取るポジショニング、アビリティのタイミング、クロスファイア、コールアウト。",
+          "href": "/guide/tribes3v3-tips-and-tricks"
+        },
+        {
+          "badge": "人気",
+          "title": "3v3ガイド",
+          "description": "少人数の競技マッチ向けの戦術と戦略。",
+          "href": "/modes/tribes3v3-3v3"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Tribes 3v3 とは？",
+      "paragraphs": [
+        "Tribes 3v3 は、3人1組のスクワッドが高速で目標主導のラウンドを戦う少人数向けの競技シューターです。悪い角度をカバーしてくれる4人目がいないため、1つのデュエル、1本のルート、1つのアビリティ判断がラウンドを左右します。だからこそ、反射速度よりもポジショニング、クロスヘアの置き方、連携がはるかに重要になります。",
+        "Tribes 3v3 Wiki は、そのプレッシャーを実用的なガイドに変えます。クラスと役割のアーキタイプ、武器とロードアウトの選択、キー割り当てとカメラ設定、シャードとアップグレードの経済、さらに 3v3、Rivals、トーナメント、プライベートロビー向けのモード別戦術まで網羅しています。"
+      ],
+      "stats": [
+        {
+          "label": "スクワッド人数",
+          "value": "3v3"
+        },
+        {
+          "label": "役割アーキタイプ",
+          "value": "3"
+        },
+        {
+          "label": "武器アーキタイプ",
+          "value": "4"
+        },
+        {
+          "label": "主要スキル",
+          "value": "4"
+        },
+        {
+          "label": "リソース層",
+          "value": "シャード"
+        },
+        {
+          "label": "ガイドカテゴリ",
+          "value": "7"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Tribes 3v3 Wiki を探索する",
+      "description": "Tribes 3v3 のすべての要素を1か所に。初心者の基礎、クラス、武器、移動、マップ、ゲームモード、コツ、そして最近の変更点。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Tribes 3v3 初心者ガイド",
+          "description": "新規プレイヤー向けの基本。どこに立つか、クロスヘアをどこに置くか、いつ戦闘に踏み込むか。",
+          "href": "/guide/tribes3v3-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "敵との間に常にカバーを置き、同じ開けたレーンに二度立たないようにしましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "設定は一度で決めきります。カメラとエイムの感度を調整したら、その後は触らずに一貫したエイムを保ちます。"
+            },
+            {
+              "label": "3",
+              "detail": "信頼できるロードアウトを1つ作り、新しいキットを試す前にその限界を把握しましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "チームで動きましょう。最低1人の味方と一緒に動き、同じターゲットに集中します。"
+            },
+            {
+              "label": "5",
+              "detail": "各交戦を振り返り、その撃ち合いがなぜ成功または失敗したのかを考えます。"
+            },
+            {
+              "label": "6",
+              "detail": "1回のセッションで、小さなミスを5つ追うのではなく、繰り返すミスを1つ修正しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Tribes 3v3 クラス",
+          "description": "遠距離・エントリー・フレックスの各アーキタイプがどう役割を分担し、どの3人構成がラウンドで機能するかを解説します。",
+          "href": "/mechanics/tribes3v3-classes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "遠距離",
+              "detail": "射線を確保し、開けたプッシュを罰する役割。長いレーンや高所で最も強みを発揮します。"
+            },
+            {
+              "label": "エントリー",
+              "detail": "角を破り、近距離のデュエルを強要しますが、戦闘が開いた瞬間に晒されます。"
+            },
+            {
+              "label": "フレックス",
+              "detail": "スクワッドに足りない部分を埋め、最初の交戦で敵の狙いが見えた時点で適応します。"
+            },
+            {
+              "label": "構成",
+              "detail": "攻めのプッシュ、守りのホールド、そしてバランス型。新しいスクワッドにはバランス型が既定のおすすめです。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tribes 3v3 武器",
+          "description": "距離ごとの武器アーキタイプと、3人での戦闘でそれぞれが実際に合うスクワッドの役割。",
+          "href": "/mechanics/tribes3v3-weapons",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "近距離",
+              "detail": "至近距離の撃ち合いを制し角を罰する連射武器ですが、開けた場所では崩れます。"
+            },
+            {
+              "label": "中距離",
+              "detail": "ほとんどの距離で柔軟に使えるオールラウンダーで、新しいスクワッドの既定の選択です。"
+            },
+            {
+              "label": "長距離",
+              "detail": "開けたレーンを保持する相手を罰する精密武器ですが、近距離のプッシュに一気に畳まれます。"
+            },
+            {
+              "label": "ユーティリティ",
+              "detail": "弱った相手を仕留め、リロードの隙を埋めるサブ武器。単独で戦闘を背負うものではありません。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tribes 3v3 移動",
+          "description": "戦闘が始まってもエイムを安定させる移動・カメラ・入力設定。",
+          "href": "/controls/tribes3v3-controls",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "まずは既定の配置を覚えましょう。移動キーは見慣れたままにし、スペースキーで位置を変え、マウスはカメラとエイムに使います。"
+            },
+            {
+              "label": "2",
+              "detail": "後退ではなく左右のキーでストレイフし、クロスヘアを戦闘から外さないようにしましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "カメラ感度は既定から始め、1回のセッションで1つの値だけを変えましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "エイム感度をカメラ感度に合わせ、細かいトラッキングを一定に保ちましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "マウスDPIは1つの値に固定し、その後は触らないようにしましょう。"
+            },
+            {
+              "label": "6",
+              "detail": "アビリティは指が普段置かれているキーに割り当て、ゲーム内の操作表示で確認しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Tribes 3v3 マップ",
+          "description": "戦場の読み方。角、サイドルート、高所、長い射線がラウンドの支配権を決めます。",
+          "href": "/guide/tribes3v3-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "角",
+              "detail": "狭い入口は待ち伏せを隠すので、慎重にクリアし、近距離戦を想定しましょう。"
+            },
+            {
+              "label": "ルート",
+              "detail": "サイドルートに分かれて、1方向ではなく2方向からのクロスファイアを作りましょう。"
+            },
+            {
+              "label": "高所",
+              "detail": "高所を早めに取り、位置変更やオーバーウォッチに使いましょう。"
+            },
+            {
+              "label": "射線",
+              "detail": "長いレーンでは射線を切り、遠距離で撃ち合うのではなくローテーションしましょう。"
+            },
+            {
+              "label": "クロスファイア",
+              "detail": "同じ扉を2方向から、1つのアビリティで両方を消せない程度の間隔を空けてカバーしましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Tribes 3v3 ゲームモード",
+          "description": "ランク3v3のラウンドから Rivals、トーナメント、プライベートロビーまでの主要な3人制フォーマット。",
+          "href": "/modes/tribes3v3-3v3",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "3v3",
+              "detail": "各サイド3人、短いラウンド、控えはなし。だから1つの死がテンポを変えます。"
+            },
+            {
+              "label": "Rivals",
+              "detail": "顔なじみのスクワッドとの再戦。早い戦闘を強行するよりルートの偵察が勝ります。"
+            },
+            {
+              "label": "トーナメント",
+              "detail": "トリオの役割、ロードアウトの相性、プレッシャー下でのマップ掌握を土台にしたブラケット形式。"
+            },
+            {
+              "label": "プライベート",
+              "detail": "スクリム、ルートの確認、反復練習のためのプライベートロビー。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tribes 3v3 のコツ",
+          "description": "勝率を本当に動かす上達のコツを、重要度順に並べました。",
+          "href": "/guide/tribes3v3-tips",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "ポジショニング：カバーの使い方と被弾後の立て直しが、最初の一撃を取る側を決めます。"
+            },
+            {
+              "label": "S",
+              "detail": "クロスヘアの置き方：画面を横切ってフリックするのではなく、入口をあらかじめ狙いましょう。"
+            },
+            {
+              "label": "A",
+              "detail": "デュエルの規律：成功率の低い戦闘からは下がり、外した後に無理な一撃を狙わないようにしましょう。"
+            },
+            {
+              "label": "B",
+              "detail": "移動：戦闘中はストレイフしましょう。立ち止まると互角の撃ち合いでも負けます。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Tribes 3v3 アップデート",
+          "description": "復帰プレイヤーに向けた変更点と、現在の Tribes 3v3 メタの動きの速さ。",
+          "href": "/community/tribes3v3-revival",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "メタ",
+              "detail": "基本のループは今もカバー、連携したプッシュ、温存したアビリティを評価するので、基礎はパッチを越えて生き残ります。"
+            },
+            {
+              "label": "キャッチアップ",
+              "detail": "コミュニティが書いたガイドと短いクリップで、復帰プレイヤーは一晩でメタに追いつけます。"
+            },
+            {
+              "label": "スクワッド",
+              "detail": "ソロでキューを回すのではなく、固定のトリオを探してラウンドを一緒に振り返るプレイヤーが増えています。"
+            },
+            {
+              "label": "練習",
+              "detail": "プライベートロビーで同じルートと守りの配置を繰り返し、何が本当に上達したかを測りましょう。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Tribes 3v3 FAQ",
+      "description": "Tribes 3v3 を始めたプレイヤーが最もよく尋ねる疑問への手早い回答。",
+      "items": [
+        {
+          "question": "Tribes 3v3 とは何ですか？",
+          "answer": "Tribes 3v3 は、3人1組のスクワッドが高速で目標主導のラウンドを戦う少人数向けの競技シューターです。各サイド3人しか出ないため、ほとんどのラウンドは純粋なエイムではなく、ポジショニング、アビリティのタイミング、コミュニケーションで決まります。"
+        },
+        {
+          "question": "Tribes 3v3 で初心者はどのクラスを選ぶべきですか？",
+          "answer": "まずはバランス型の構成から始めましょう。遠距離のオーバーウォッチ1人、近距離のエントリー1人、フレックス1人です。バランス型は攻守どちらにも適応でき、新しいスクワッドへの既定のおすすめです。"
+        },
+        {
+          "question": "Tribes 3v3 のシャードはどう機能しますか？",
+          "answer": "シャードは、アビリティとロードアウトの選択を支えるラウンド内のリソース層です。計画的なエントリー、確実な離脱、確定キルに使い、最初の接触で使い切らないようにしましょう。"
+        },
+        {
+          "question": "Tribes 3v3 で最も重要なスキルは何ですか？",
+          "answer": "最も比重が大きいのはポジショニングとクロスヘアの置き方で、次にデュエルの規律とアビリティのタイミングです。派手さより安定が勝つので、見せ場の一撃を追うのではなく、本当に勝てる戦闘を選びましょう。"
+        },
+        {
+          "question": "Tribes 3v3 で早く上達するには？",
+          "answer": "設定を一度決めきり、信頼できるロードアウトを1つに固定し、最低1人の味方と遊び、各交戦を振り返り、1セッションにつき繰り返すミスを1つ直しましょう。"
+        },
+        {
+          "question": "Tribes 3v3 でシャードを最速で稼ぐ方法は？",
+          "answer": "シャード収入はラウンドの戦い方から生まれるので、最も速い稼ぎは交戦をきれいに勝つことです。カバーを保ち、味方と同じターゲットを狙い、価値の低い戦闘への出費をやめましょう。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "TRIBES 3: Rivals を極める準備はできましたか？",
+      "description": "最初のジェットパック離陸からランク戦の Capture the Flag まで、私たちのコミュニティウィキはクラス、パーク、マップ、スキー移動を無料の最新ガイドで網羅しています。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Tribes 3v3 ガイド",
+    "overviewDescription": "サイト内のすべての Tribes 3v3 ガイド。初心者向けの手順、遊び方、コツと裏技、そして各アップデートが 3v3 アリーナシューターに何をもたらすかの予習。"
+  },
+  "mechanics": {
+    "overviewTitle": "Tribes 3v3 メカニクス",
+    "overviewDescription": "Tribes 3v3 のクラス、ロードアウト、武器、アップグレード、シャード、設定を解説。次の試合の前に、各スロットと数値が実際に何をするのかを理解できます。"
+  },
+  "controls": {
+    "overviewTitle": "Tribes 3v3 操作",
+    "overviewDescription": "Tribes 3v3 のキー割り当て、既定キー、キーボード＆マウスまたはコントローラーの操作配置に加え、エイムと移動を安定させる設定。"
+  },
+  "progression": {
+    "overviewTitle": "Tribes 3v3 進行",
+    "overviewDescription": "Tribes 3v3 の進行の仕組み。ランキング、週次のリセット、報酬、グループ報酬、そしてスクワッドを最速で強化するアップグレードの道筋。"
+  },
+  "modes": {
+    "overviewTitle": "Tribes 3v3 ゲームモード",
+    "overviewDescription": "Tribes 3v3 のゲームモードを解説。標準の Rivals マッチやトーナメントから VIP サーバーまで、各キューのルールと勝利条件を紹介します。"
+  },
+  "community": {
+    "overviewTitle": "Tribes 3v3 コミュニティ",
+    "overviewDescription": "Tribes 3v3 のコミュニティ拠点。公式 Discord、フォーラム、Reddit の議論、プレイヤーレビュー、そして試合の合間に追う価値のある復活のニュース。"
+  },
+  "tips": {
+    "overviewTitle": "Tribes 3v3 のコツ",
+    "overviewDescription": "Tribes 3v3 のコツと最良の選択。最強のクラス、武器、ロードアウト、そして現行メタでシャードを最速で稼ぐ方法。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnSteam": "Steam でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。近日公開をお待ちください！"
+  },
+  "footer": {
+    "aboutTitle": "TRIBES 3: Rivals Wiki",
+    "about": "TRIBES 3: Rivals Wiki は、アーマークラス、武器、パーク、マップ、スキーとジェットパックの移動、Capture the Flag の戦術を扱う、ファンが作った独立系のガイドハブです。新人プレイヤーにもベテランにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 TRIBES 3: Rivals Wiki. Prophecy Games および Steam とは無関係です。",
+    "description": "ジェットパック、スキー、アーマークラス、Capture the Flag を備えた高速チームFPS。",
+    "playGame": "Steam で TRIBES 3: Rivals をプレイ",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "公式 FAQ と遊び方",
+    "beginnerGuide": "初心者ガイド",
+    "classGuides": "クラスガイド",
+    "weaponGuides": "武器とロードアウト",
+    "tipsGuides": "コツと最良の選択",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
