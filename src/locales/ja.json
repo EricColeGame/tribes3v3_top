@@ -3,7 +3,7 @@
     "name": "VV: ULTIMATUM",
     "shortName": "VV Ultimatum",
     "tagline": "ファンメイド コミュニティ Wiki",
-    "description": "Roblox『VV: ULTIMATUM』の完全攻略Wiki。死神・滅却師・虚の3つの種族を極めるためのガイド、ボス攻略、ビルド最適化、最新コード情報。",
+    "description": "Steam『VV: ULTIMATUM』の完全攻略Wiki。死神・滅却師・虚の3つの種族を極めるためのガイド、ボス攻略、ビルド最適化、最新コード情報。",
     "legalNotice": "非公式ファンWiki。プレイヤーによる、プレイヤーのための攻略サイト。"
   },
   "nav": {
@@ -27,7 +27,7 @@
     "hero": {
       "eyebrow": "ファンメイド コミュニティ Wiki",
       "title": "VV: ULTIMATUM",
-      "description": "Roblox『VV: ULTIMATUM』の完全攻略Wiki。死神・滅却師・虚の3つの種族を極めるためのガイド、ボス攻略、ビルド最適化、最新コード情報を網羅。",
+      "description": "Steam『VV: ULTIMATUM』の完全攻略Wiki。死神・滅却師・虚の3つの種族を極めるためのガイド、ボス攻略、ビルド最適化、最新コード情報を網羅。",
       "stats": [
         "6月5日配信",
         "6月12日更新",
@@ -140,17 +140,17 @@
     "aboutGame": {
       "title": "VV: ULTIMATUM とは？",
       "paragraphs": [
-        "VV: ULTIMATUM は Bleach アニメをモチーフにした Roblox のスタイリッシュ格闘 RPG です。死神・滅却師・虚の3つのプレイアブル種族から選択でき、それぞれ独自の進行システム、解放可能な能力、進化ルートを備えています。130以上のスキルをマスターし、レベル100の上限を目指して戦い抜こう。",
+        "VV: ULTIMATUM は Bleach アニメをモチーフにした Steam のスタイリッシュ格闘 RPG です。死神・滅却師・虚の3つのプレイアブル種族から選択でき、それぞれ独自の進行システム、解放可能な能力、進化ルートを備えています。130以上のスキルをマスターし、レベル100の上限を目指して戦い抜こう。",
         "始めての始解の解放、基礎虚からアランカルへの進化、滅却師の副隊長ミッションの周回など、当Wikiは全システムを詳細なガイド、データテーブル、ステップバイステップのウォークスルーで解説しています。"
       ],
       "stats": [
         {
           "label": "開発元",
-          "value": "Midnight Continent"
+          "value": "Prophecy Games"
         },
         {
           "label": "プラットフォーム",
-          "value": "Roblox"
+          "value": "Steam"
         },
         {
           "label": "ジャンル",
@@ -235,7 +235,7 @@
           "highlights": [
             {
               "label": "🎮",
-              "detail": "Roblox で VV: ULTIMATUM をプレイ"
+              "detail": "Steam で VV: ULTIMATUM をプレイ"
             },
             {
               "label": "💬",
@@ -255,7 +255,7 @@
             },
             {
               "label": "👥",
-              "detail": "Roblox コミュニティグループ"
+              "detail": "Steam コミュニティグループ"
             }
           ]
         },
@@ -408,7 +408,7 @@
       "items": [
         {
           "question": "VV: ULTIMATUM とは何ですか？",
-          "answer": "VV: ULTIMATUM は Bleach アニメをベースにした Roblox の無料格闘 RPG です。死神（ソウルリーパー）・滅却師・虚の3種族から1つを選び、それぞれ独自の進行・戦闘能力・進化システムを持ちます。130以上のスキル、Lv100の上限、ボス戦、深いビルドカスタマイズが特徴です。"
+          "answer": "VV: ULTIMATUM は Bleach アニメをベースにした Steam の無料格闘 RPG です。死神（ソウルリーパー）・滅却師・虚の3種族から1つを選び、それぞれ独自の進行・戦闘能力・進化システムを持ちます。130以上のスキル、Lv100の上限、ボス戦、深いビルドカスタマイズが特徴です。"
         },
         {
           "question": "初心者はどの種族を選ぶべき？",
@@ -432,7 +432,7 @@
       "title": "VV: ULTIMATUM をマスターする準備はできましたか？",
       "description": "Fort Adams での最初の一歩からエンドゲームのボス戦まで、コミュニティ Wiki が無料の最新ガイドでサポートします。",
       "primary": "初心者ガイドを読む",
-      "secondary": "Roblox でプレイ"
+      "secondary": "Steam でプレイ"
     }
   },
   "bosses": {
@@ -452,7 +452,7 @@
     "activeCodes": "有効なコード",
     "updated": "更新",
     "viewAllCodes": "全コードを見る",
-    "playOnRoblox": "Robloxでプレイ",
+    "playOnSteam": "Steamでプレイ",
     "inThisSection": "目次",
     "tableOfContents": "目次",
     "nextSteps": "次のステップ",
@@ -471,8 +471,8 @@
     "quickLinks": "クイックリンク",
     "guides": "ガイド",
     "legal": "法務",
-    "copyright": "© 2026 VV: ULTIMATUM Wiki. Midnight Continent および Roblox とは無関係です。",
-    "description": "Roblox の無料 Bleach 系格闘 RPG。3種族、130以上のスキル、Lv100上限。",
+    "copyright": "© 2026 VV: ULTIMATUM Wiki. Prophecy Games および Steam とは無関係です。",
+    "description": "Steam の無料 Bleach 系格闘 RPG。3種族、130以上のスキル、Lv100上限。",
     "playGame": "VV: ULTIMATUM をプレイ",
     "officialDiscord": "公式 Discord",
     "officialYoutube": "公式 YouTube",
