@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your TRIBES 3: Rivals Journey",
+      "title": "Your Tribes 3v3 Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn how rounds are actually lost: cover, crosshair placement, ability timing, and the squad habits that win three-player fights."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Best Class",
+          "description": "Compare the ranged, entry, and flex archetypes and build a three-player composition that still works when one player goes down."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Fastest Way to Get Shards",
+          "description": "Earn, spend, and deny the in-round shard economy so your squad still has tools for the final fight."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in TRIBES 3: Rivals."
+          "title": "Best Loadouts",
+          "description": "Match weapons and abilities to your role and range instead of rebuilding your kit after every lost duel."
         }
       ]
     },
@@ -66,265 +66,355 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Best Class",
+        "Best Loadouts",
+        "3v3 Tips"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first match to the habits that win rounds.",
+          "href": "/guide/tribes3v3-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Best Class",
+          "description": "Compare the ranged, entry, and flex roles and build a winning squad composition.",
+          "href": "/tips/tribes3v3-best-class"
+        },
+        {
+          "badge": "Popular",
+          "title": "Classes Guide",
+          "description": "Role archetypes, the best three-player combos, and loadout tips for each slot.",
+          "href": "/mechanics/tribes3v3-classes"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Weapons Guide",
+          "description": "Weapon archetypes by range and how to pair them with your squad role.",
+          "href": "/mechanics/tribes3v3-weapons"
+        },
+        {
+          "badge": "New",
+          "title": "Best Loadouts",
+          "description": "Weapon and ability pairings that stay reliable across every round.",
+          "href": "/tips/tribes3v3-best-loadouts"
+        },
+        {
+          "badge": "New",
+          "title": "Shards Guide",
+          "description": "How to earn, spend, and deny the in-round shard economy.",
+          "href": "/mechanics/tribes3v3-shards"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Controls & Keybinds",
+          "description": "Default keybinds, camera settings, and sensitivity values that stay predictable.",
+          "href": "/controls/tribes3v3-controls"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Tips and Tricks",
+          "description": "Positioning, ability timing, crossfire, and callouts that win three-player rounds.",
+          "href": "/guide/tribes3v3-tips-and-tricks"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "3v3 Guide",
+          "description": "Tactics and strategies for small-team competitive matches.",
+          "href": "/modes/tribes3v3-3v3"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is TRIBES 3: Rivals?",
+      "title": "What Is Tribes 3v3?",
       "paragraphs": [
-        "TRIBES 3: Rivals is a stylized fighting RPG on Steam inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Tribes 3v3 is a small-team competitive shooter built around three-player squads fighting fast, objective-driven rounds. With no fourth teammate to cover a bad angle, every duel, route, and ability decision swings the round, which is why positioning, crosshair placement, and coordination matter far more than raw flick speed.",
+        "The Tribes 3v3 Wiki turns that pressure into practical guides: class and role archetypes, weapon and loadout picks, keybinds and camera settings, the shard and upgrade economy, plus mode-specific tactics for 3v3, rivals, tournaments, and private lobbies."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Prophecy Games"
+          "label": "Squad Size",
+          "value": "3v3"
         },
         {
-          "label": "Platform",
-          "value": "Steam"
+          "label": "Role Archetypes",
+          "value": "3"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Weapon Archetypes",
+          "value": "4"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Core Skills",
+          "value": "4"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Resource Layer",
+          "value": "Shards"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Guide Categories",
+          "value": "7"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore TRIBES 3: Rivals Wiki",
-      "description": "Master your seafood restaurant on Steam with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Tribes 3v3 Wiki",
+      "description": "Every Tribes 3v3 system in one place: beginner fundamentals, classes, weapons, movement, maps, game modes, tips, and what changed recently.",
       "modules": [
         {
           "order": 1,
-          "name": "TRIBES 3: Rivals Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/tribes-3-rivals-codes",
-          "displayType": "code-box",
+          "name": "Tribes 3v3 Beginner Guide",
+          "description": "The core fundamentals for new players: where you stand, where your crosshair sits, and when you commit to a fight.",
+          "href": "/guide/tribes3v3-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Keep cover between you and the enemy and never stand in the same open lane twice."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Fix your setup once: tune camera and aim sensitivity, then leave it alone so your aim stays consistent."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Build one reliable loadout and learn its limits before you experiment with new kits."
+            },
+            {
+              "label": "4",
+              "detail": "Play with the team: move with at least one teammate and focus the same target."
+            },
+            {
+              "label": "5",
+              "detail": "Review each engagement and ask what caused the exchange to succeed or fail."
+            },
+            {
+              "label": "6",
+              "detail": "Fix one recurring mistake per session instead of chasing five small ones at once."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/tribes-3-rivals-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Tribes 3v3 Classes",
+          "description": "How the ranged, entry, and flex archetypes split responsibility, and which three-player combinations hold up in a round.",
+          "href": "/mechanics/tribes3v3-classes",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Ranged",
+              "detail": "Holds sightlines and punishes open pushes, and is strongest on long lanes and elevated ground."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Entry",
+              "detail": "Breaks corners and forces tight duels, but is exposed the moment the fight opens up."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Flex",
+              "detail": "Fills whatever the squad is missing and adapts once the first engagement shows the enemy plan."
+            },
+            {
+              "label": "Comps",
+              "detail": "Aggressive push, defensive hold, and balanced setups, with balanced as the default for new squads."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/tribes-3-rivals-tier-list",
-          "displayType": "tier-grid",
+          "name": "Tribes 3v3 Weapons",
+          "description": "Weapon archetypes by range, and the squad role each one actually fits in a three-player fight.",
+          "href": "/mechanics/tribes3v3-weapons",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Close",
+              "detail": "Fast-firing picks that win point-blank trades and punish corners, but fall apart across open ground."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Mid",
+              "detail": "All-rounders that stay flexible at most distances and are the default pick for newer squads."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Long",
+              "detail": "Precision picks that punish anyone holding an open lane, but get collapsed on by close-range pushes."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Utility",
+              "detail": "Secondaries that finish weakened targets and cover reload gaps without carrying a fight alone."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/tribes-3-rivals-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Tribes 3v3 Movement",
+          "description": "Movement, camera, and input settings that keep your aim predictable once the fight starts.",
+          "href": "/controls/tribes3v3-controls",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Learn the default layout first: keep the movement keys familiar, use Spacebar to reposition, and leave the mouse for camera and aim."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Strafe with the left and right keys instead of backpedaling, so your crosshair stays on the fight."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Start on default camera sensitivity and change one value at a time across a full session."
+            },
+            {
+              "label": "4",
+              "detail": "Match aim sensitivity to camera sensitivity so fine tracking stays consistent."
+            },
+            {
+              "label": "5",
+              "detail": "Keep mouse DPI on one constant value, then stop touching it."
+            },
+            {
+              "label": "6",
+              "detail": "Rebind abilities to keys your fingers already rest near, then confirm them in the in-game control display."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/tribes-3-rivals-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Tribes 3v3 Maps",
+          "description": "Battlefield reading: corners, side routes, elevated ground, and long sightlines that decide who controls the round.",
+          "href": "/guide/tribes3v3-tips-and-tricks",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Corners",
+              "detail": "Narrow entrances hide ambushes, so clear them methodically and expect close-range fights."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Routes",
+              "detail": "Split across side routes to create crossfire from two angles instead of one."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Elevation",
+              "detail": "Take elevated ground early and use it to reposition or hold overwatch."
+            },
+            {
+              "label": "Sightlines",
+              "detail": "Break line of sight on long lanes and rotate out rather than trading at range."
+            },
+            {
+              "label": "Crossfire",
+              "detail": "Cover the same doorway from two angles with enough spacing that one ability cannot remove both of you."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/tribes-3-rivals-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Tribes 3v3 Game Modes",
+          "description": "The main three-player formats, from ranked 3v3 rounds to rivals, tournaments, and private lobbies.",
+          "href": "/modes/tribes3v3-3v3",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "3v3",
+              "detail": "Three players per side, short rounds, and no spare teammate, so every death is a tempo swing."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Rivals",
+              "detail": "Repeat matchups against familiar squads, where scouting routes beats forcing early fights."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Tournament",
+              "detail": "Bracket play built on trio roles, loadout synergies, and map control under pressure."
+            },
+            {
+              "label": "Private",
+              "detail": "Private lobbies for scrims, route walkthroughs, and repeatable practice reps."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tribes 3v3 Tips",
+          "description": "The improvement tips that actually move your win rate, ranked by how much they matter.",
+          "href": "/guide/tribes3v3-tips",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Positioning: cover usage and repositioning after damage decide who gets the first shot."
+            },
+            {
+              "label": "S",
+              "detail": "Crosshair placement: pre-aim entry points instead of flicking across the screen."
+            },
+            {
+              "label": "A",
+              "detail": "Duel discipline: back off from low-percentage fights instead of forcing a shot after a miss."
+            },
+            {
+              "label": "B",
+              "detail": "Movement: strafe during combat, because standing still loses even trades."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Tribes 3v3 Updates",
+          "description": "What changed for returning players, and how quickly the current Tribes 3v3 meta moves.",
+          "href": "/community/tribes3v3-revival",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Meta",
+              "detail": "The core loop still rewards cover, coordinated pushes, and saved abilities, so fundamentals survive patches."
+            },
+            {
+              "label": "Catch-Up",
+              "detail": "Community-written guides and short clips let a returning player catch up on the meta in an evening."
+            },
+            {
+              "label": "Squads",
+              "detail": "More players are looking for fixed trios and reviewing rounds together instead of grinding solo queues."
+            },
+            {
+              "label": "Practice",
+              "detail": "Repeat the same route and defensive setup in a private lobby to measure what actually improved."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about TRIBES 3: Rivals.",
+      "title": "Tribes 3v3 FAQ",
+      "description": "Quick answers to the questions new Tribes 3v3 players ask most.",
       "items": [
         {
-          "question": "What is TRIBES 3: Rivals?",
-          "answer": "TRIBES 3: Rivals is a free-to-play fighting RPG on Steam based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Tribes 3v3?",
+          "answer": "Tribes 3v3 is a small-team competitive shooter where three-player squads fight fast, objective-driven rounds. Because only three players take the field per side, positioning, ability timing, and communication decide most rounds, not raw aim."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which class should beginners pick in Tribes 3v3?",
+          "answer": "Start with a balanced composition: one ranged overwatch player, one close-range entry player, and one flex player. Balanced setups adapt to both offense and defense and are the default recommendation for new squads."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do shards work in Tribes 3v3?",
+          "answer": "Shards are the in-round resource layer behind your abilities and loadout choices. Spend them on planned entries, real escapes, and confirmed eliminations, and avoid dumping everything on first contact."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What are the most important skills in Tribes 3v3?",
+          "answer": "Positioning and crosshair placement carry the most weight, followed by duel discipline and ability timing. Consistency beats flash, so take fights you can actually win instead of chasing highlight shots."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I improve faster in Tribes 3v3?",
+          "answer": "Fix your setup once, lock in a single reliable loadout, play with at least one teammate, review each engagement, and fix one recurring mistake per session."
+        },
+        {
+          "question": "What is the fastest way to get shards in Tribes 3v3?",
+          "answer": "Shard income comes from how you play the round, so the fastest gains come from winning engagements cleanly: keep cover, focus the same target as a teammate, and stop spending on low-value fights."
         }
       ]
     },
