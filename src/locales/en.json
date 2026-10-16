@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "controls": "Controls",
+    "progression": "Progression",
+    "modes": "Modes",
+    "community": "Community",
+    "tips": "Tips"
   },
   "home": {
     "meta": {
@@ -425,7 +432,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Tribes 3v3 Guide",
+    "overviewDescription": "Every Tribes 3v3 guide on the site: beginner walkthroughs, how to play, tips and tricks, and previews of what each update changes in the 3v3 arena shooter."
+  },
+  "mechanics": {
+    "overviewTitle": "Tribes 3v3 Mechanics",
+    "overviewDescription": "Tribes 3v3 classes, loadouts, weapons, upgrades, shards and settings explained, so you know what every slot and stat actually does before your next match."
+  },
+  "controls": {
+    "overviewTitle": "Tribes 3v3 Controls",
+    "overviewDescription": "Tribes 3v3 keybinds, default keys and control layouts for keyboard and mouse or controller, plus the settings that make aiming and movement feel consistent."
+  },
+  "progression": {
+    "overviewTitle": "Tribes 3v3 Progression",
+    "overviewDescription": "How Tribes 3v3 progression works: leaderboards, weekly resets, rewards, group rewards and the upgrade path that makes your squad stronger fastest."
+  },
+  "modes": {
+    "overviewTitle": "Tribes 3v3 Game Modes",
+    "overviewDescription": "Tribes 3v3 game modes explained, from standard Rivals matches and tournaments to VIP servers, with the rules and win conditions for each queue."
+  },
+  "community": {
+    "overviewTitle": "Tribes 3v3 Community",
+    "overviewDescription": "Tribes 3v3 community hubs: the official Discord, forums, Reddit discussion, player reviews and the revival news worth following between matches."
+  },
+  "tips": {
+    "overviewTitle": "Tribes 3v3 Tips",
+    "overviewDescription": "Tribes 3v3 tips and best picks: the strongest classes, weapons and loadouts, plus the fastest ways to farm shards in the current meta."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -456,9 +490,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official FAQ & How to Play",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "classGuides": "Class Guides",
+    "weaponGuides": "Weapons & Loadouts",
+    "tipsGuides": "Tips & Best Picks",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

@@ -237,39 +237,65 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
   guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  mechanics: "Classes & Mechanics",
+  controls: "Controls & Keybinds",
+  progression: "Progression & Rewards",
+  modes: "Game Modes",
+  community: "Community",
+  tips: "Tips & Best Picks",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
   guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  mechanics: "クラス & メカニクス",
+  controls: "操作 & キーバインド",
+  progression: "進行 & 報酬",
+  modes: "ゲームモード",
+  community: "コミュニティ",
+  tips: "攻略のコツ",
+};
+
+// 德文分组标题映射
+const GROUP_TITLES_DE: Record<string, string> = {
+  guide: "Erste Schritte",
+  mechanics: "Klassen & Mechanik",
+  controls: "Steuerung & Tastenbelegung",
+  progression: "Fortschritt & Belohnungen",
+  modes: "Spielmodi",
+  community: "Community",
+  tips: "Tipps & Beste Builds",
+};
+
+// 法文分组标题映射
+const GROUP_TITLES_FR: Record<string, string> = {
+  guide: "Premiers pas",
+  mechanics: "Classes & Mécaniques",
+  controls: "Commandes & Raccourcis",
+  progression: "Progression & Récompenses",
+  modes: "Modes de jeu",
+  community: "Communauté",
+  tips: "Astuces & Meilleurs choix",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  de: GROUP_TITLES_DE,
+  fr: GROUP_TITLES_FR,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  de: "Übersicht",
+  fr: "Aperçu",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "mechanics", "controls", "progression", "modes", "community", "tips",
 ];
 
 /**
